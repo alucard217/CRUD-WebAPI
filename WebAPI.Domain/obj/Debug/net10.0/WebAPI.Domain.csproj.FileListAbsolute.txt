@@ -1,0 +1,11 @@
+C:\Users\bolte\source\repos\WebAPI.Domain\bin\Debug\net10.0\WebAPI.Domain.deps.json
+C:\Users\bolte\source\repos\WebAPI.Domain\bin\Debug\net10.0\WebAPI.Domain.dll
+C:\Users\bolte\source\repos\WebAPI.Domain\bin\Debug\net10.0\WebAPI.Domain.pdb
+C:\Users\bolte\source\repos\WebAPI.Domain\obj\Debug\net10.0\WebAPI.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bolte\source\repos\WebAPI.Domain\obj\Debug\net10.0\WebAPI.Domain.AssemblyInfoInputs.cache
+C:\Users\bolte\source\repos\WebAPI.Domain\obj\Debug\net10.0\WebAPI.Domain.AssemblyInfo.cs
+C:\Users\bolte\source\repos\WebAPI.Domain\obj\Debug\net10.0\WebAPI.Domain.csproj.CoreCompileInputs.cache
+C:\Users\bolte\source\repos\WebAPI.Domain\obj\Debug\net10.0\WebAPI.Domain.dll
+C:\Users\bolte\source\repos\WebAPI.Domain\obj\Debug\net10.0\refint\WebAPI.Domain.dll
+C:\Users\bolte\source\repos\WebAPI.Domain\obj\Debug\net10.0\WebAPI.Domain.pdb
+C:\Users\bolte\source\repos\WebAPI.Domain\obj\Debug\net10.0\ref\WebAPI.Domain.dll

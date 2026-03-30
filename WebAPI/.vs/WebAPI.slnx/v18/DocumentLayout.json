@@ -1,0 +1,119 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\bolte\\source\\repos\\WebAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1963FF41-1B1B-D560-A22D-F9D3C981C941}|WebAPI.csproj|c:\\users\\bolte\\source\\repos\\webapi\\controllers\\videoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1963FF41-1B1B-D560-A22D-F9D3C981C941}|WebAPI.csproj|solutionrelative:controllers\\videoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1963FF41-1B1B-D560-A22D-F9D3C981C941}|WebAPI.csproj|c:\\users\\bolte\\source\\repos\\webapi\\dto\\videoresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1963FF41-1B1B-D560-A22D-F9D3C981C941}|WebAPI.csproj|solutionrelative:dto\\videoresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1963FF41-1B1B-D560-A22D-F9D3C981C941}|WebAPI.csproj|c:\\users\\bolte\\source\\repos\\webapi\\dto\\videorequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1963FF41-1B1B-D560-A22D-F9D3C981C941}|WebAPI.csproj|solutionrelative:dto\\videorequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0DD59A04-5F8A-F5F1-2EBB-7DD16D23C53B}|..\\WebAPI.DataAccess\\WebAPI.DataAccess.csproj|c:\\users\\bolte\\source\\repos\\webapi.dataaccess\\repositories\\videosrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{570F0143-C875-0938-999F-E1230F7DEADB}|..\\WebAPI.Application\\WebAPI.Application.csproj|c:\\users\\bolte\\source\\repos\\webapi.application\\services\\videoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0DD59A04-5F8A-F5F1-2EBB-7DD16D23C53B}|..\\WebAPI.DataAccess\\WebAPI.DataAccess.csproj|c:\\users\\bolte\\source\\repos\\webapi.dataaccess\\videostoredbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "VideoService.cs",
+              "DocumentMoniker": "C:\\Users\\bolte\\source\\repos\\WebAPI.Application\\Services\\VideoService.cs",
+              "RelativeDocumentMoniker": "..\\WebAPI.Application\\Services\\VideoService.cs",
+              "ToolTip": "C:\\Users\\bolte\\source\\repos\\WebAPI.Application\\Services\\VideoService.cs",
+              "RelativeToolTip": "..\\WebAPI.Application\\Services\\VideoService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-30T17:41:06.551Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "VideoStoreDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\bolte\\source\\repos\\WebAPI.DataAccess\\VideoStoreDbContext.cs",
+              "RelativeDocumentMoniker": "..\\WebAPI.DataAccess\\VideoStoreDbContext.cs",
+              "ToolTip": "C:\\Users\\bolte\\source\\repos\\WebAPI.DataAccess\\VideoStoreDbContext.cs",
+              "RelativeToolTip": "..\\WebAPI.DataAccess\\VideoStoreDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-30T17:33:27.977Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "VideosRepository.cs",
+              "DocumentMoniker": "C:\\Users\\bolte\\source\\repos\\WebAPI.DataAccess\\Repositories\\VideosRepository.cs",
+              "RelativeDocumentMoniker": "..\\WebAPI.DataAccess\\Repositories\\VideosRepository.cs",
+              "ToolTip": "C:\\Users\\bolte\\source\\repos\\WebAPI.DataAccess\\Repositories\\VideosRepository.cs",
+              "RelativeToolTip": "..\\WebAPI.DataAccess\\Repositories\\VideosRepository.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAcAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-30T17:33:03.85Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "VideoRequest.cs",
+              "DocumentMoniker": "C:\\Users\\bolte\\source\\repos\\WebAPI\\DTO\\VideoRequest.cs",
+              "RelativeDocumentMoniker": "DTO\\VideoRequest.cs",
+              "ToolTip": "C:\\Users\\bolte\\source\\repos\\WebAPI\\DTO\\VideoRequest.cs",
+              "RelativeToolTip": "DTO\\VideoRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-30T17:19:58.395Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "VideoResponse.cs",
+              "DocumentMoniker": "C:\\Users\\bolte\\source\\repos\\WebAPI\\DTO\\VideoResponse.cs",
+              "RelativeDocumentMoniker": "DTO\\VideoResponse.cs",
+              "ToolTip": "C:\\Users\\bolte\\source\\repos\\WebAPI\\DTO\\VideoResponse.cs",
+              "RelativeToolTip": "DTO\\VideoResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-30T17:19:57.678Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "VideosController.cs",
+              "DocumentMoniker": "C:\\Users\\bolte\\source\\repos\\WebAPI\\Controllers\\VideosController.cs",
+              "RelativeDocumentMoniker": "Controllers\\VideosController.cs",
+              "ToolTip": "C:\\Users\\bolte\\source\\repos\\WebAPI\\Controllers\\VideosController.cs",
+              "RelativeToolTip": "Controllers\\VideosController.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAQwAsAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-28T13:08:44.303Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
